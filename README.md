@@ -24,5 +24,6 @@ LOCAL SETUP INSTRUCTION
    -npm start
 4.FRONTEND SETUP
    -cd frontend
+   -npm install axios
    -npm install
    -npm start
